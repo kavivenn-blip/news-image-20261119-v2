@@ -1,10 +1,10 @@
-# news-image-20261119 v2 — "44-story data dashboard" (ATM template)
+# news-image-20261119 v2 — "45-story data dashboard" (ATM template)
 
-[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
-[![rank](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
-[![reward](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
+[![make.fun · news-image-20261119](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261119)
 
-One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, a THE DAY BY HOURS timeline, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 one-line briefs, a BY THE NUMBERS strip, a THE VERDICT box (ICJ: Myanmar committed genocide, 9–6), a MARKETS &amp; MONEY box, a HOW SURE ARE WE? confidence legend, and a verification footer.
+One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 45-story data dashboard: masthead with the date in giant type, a THE DAY BY HOURS timeline, 3 lead stories, 10 featured stories, a numbered-pin world map, 32 one-line briefs, a BY THE NUMBERS strip, a THE VERDICT box (ICJ: Myanmar committed genocide, 9–6), a MARKETS &amp; MONEY box, a HOW SURE ARE WE? confidence legend, and a verification footer.
 
 This is v2 of the entry (v1: "44-story data dashboard", dev #361). The v2 rebuilds the dashboard from the top-ranked entries' visual technique — a timeline strip, a verdict box, a markets box, and a confidence legend — and corrects story 6 to the ICJ verdict as read on 19 November (the v1 was drawn before the ruling was read).
 
@@ -26,6 +26,6 @@ mkdir -p out && MAKEFUN_OUTPUT_DIR=out python3 main.py
 - `main.py` — the entry program (stdlib only)
 - `entry.png` — the dashboard image
 - `render.html` — the page that was screenshotted to make `entry.png`
-- `RESEARCH.md` — the 44 verified stories, their sources, and the framing choices
+- `RESEARCH.md` — the 45 verified stories, their sources, and the framing choices
 
 Built for the [make.fun bounty "Sum up 19 November's world news in one image"](https://make.fun/bounty/news-image-20261119).
