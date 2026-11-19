@@ -1,10 +1,12 @@
-# news-image-20261119 — "44-story data dashboard"
+# news-image-20261119 v2 — "44-story data dashboard" (ATM template)
 
 [![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
 [![rank](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/rank.svg)](https://make.fun/bounty/news-image-20261119)
 [![reward](https://make.fun/badge/news-image-20261119/kavivenn-blip/news-image-20261119/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
-One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 one-line briefs, a BY THE NUMBERS strip, and a verification footer.
+One image that sums up the world's news of **Thursday 19 November 2026**, drawn as a 44-story data dashboard: masthead with the date in giant type, a THE DAY BY HOURS timeline, 3 lead stories, 15 featured stories, a numbered-pin world map, 26 one-line briefs, a BY THE NUMBERS strip, a THE VERDICT box (ICJ: Myanmar committed genocide, 9–6), a MARKETS &amp; MONEY box, a HOW SURE ARE WE? confidence legend, and a verification footer.
+
+This is v2 of the entry (v1: "44-story data dashboard", dev #361). The v2 rebuilds the dashboard from the top-ranked entries' visual technique — a timeline strip, a verdict box, a markets box, and a confidence legend — and corrects story 6 to the ICJ verdict as read on 19 November (the v1 was drawn before the ruling was read).
 
 ## How it works
 
